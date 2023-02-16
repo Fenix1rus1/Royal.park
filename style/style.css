@@ -1,0 +1,71 @@
+header{
+    min-height: 600px;
+    background-image:url(https://s3-alpha-sig.figma.com/img/8733/5e33/25ce84c0822dda77988e182b87c391cf?Expires=1677456000&Signature=O25w~RUoFc7-tgVt-vJAQbCPmiy7pvv1CiEqkRokp8deM35p-OkaXiR9gis852C5Lgpn0cVqyeQn0wtp~JtgJEw8m-Nw3B3Kv4e6ChIyXYbK2WtOA0o1f2UFskLu2LjfknUFrpAb6LpOekfQ4rEIGvN9x9m2Kc~68qYD8EOcSMF2sS808i6bBWNaHrXKdVIyibqQrmZcI22S4CYYcqDKYctDix8xnXRArD8zgr7SRltOXR2fICQrQTGRFbmqF0bevWbLYqmq5U6xsFKw5tJ1EA~ieegQYaQLEHINL5yfv9O1Vn7DfOtNE1haZ9yu3zpLFgi~g0zfQc8lDCXd66UlFg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.header__botton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.header__navbar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.header__logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.Stay_home{
+    font-family: 'Gelasio';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 57px;
+    line-height: 120%;
+}
+
+.Pet-friendly{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+/* or 29px */
+
+
+color: #081F32;
+
+opacity: 0.6;
+}
+
+.video_prev{
+    background-image: url(https://s3-alpha-sig.figma.com/img/e551/ed54/4da5fe5871656386b08a17c2aef4bde6?Expires=1677456000&Signature=Bptry1733W3PwjrpHDU8lwv3MxI17xbspYi5hPwHHnrCS7LM7jHdh3lCtf0ZBGLiKVtwqPqWx5XhHX1li6AmfJ7LpUAtzqzpS1cZxwxivFzMgtmsSeJlcmoIi0w7QymhWsWZl293Gpy~cC4OQCD6q7-MBCgfdOsC7YV9CXnmqg40GNkvhtXTLcIsmisjtTTV9PtCqjg7WBLwAdQm1OY9il2lSct9s8bz8DAnMbb8o~1A8929zFLDyZROvQvS4n77QgEaMLC15MSU5aggITaXsJRdmUWYV21aua-jrAZZ7U0llXDd4oQSDOaRJH-VN-hl3Q66G4ct3lqEXcacXoAx9w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+    border-radius: 10px;
+    height: 350px;
+    max-width: 650px;
+    background-size: 100%;
+    margin-left: 87px;
+    margin-right: 87px;
+    z-index: -1;
+
+}
+.play__css{
+    z-index: 1;
+    
+}
+.header__second{
+
+}
